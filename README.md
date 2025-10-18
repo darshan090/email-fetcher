@@ -99,7 +99,7 @@ The application uses the Google API Client Library for Python to interact with t
 
 👤 Author
 ----------
-The GFG Auth Project was created by [Your Name](https://github.com/your-username).
+The GFG Auth Project was created by [Darshan Jariwala](https://github.com/darshan090)).
 
 📝 License
 ----------
